@@ -20,4 +20,25 @@ body{
     min-height: 700px;
     
 }
+#Home-Section .inner-home{
+    padding-top: 130px;
+    
+}
+
+.fa{
+    color: #008ed6;
+    background: #fff;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+    
+
+}
+#Home-Section .card-body{
+    opacity: 0.7;
+    
+}
+#Home-Section .inner-home .col-lg-4{
+    padding-top: 30px;
+}
 
